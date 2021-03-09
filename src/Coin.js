@@ -1,12 +1,14 @@
 import React from "react";
 import "./Coin.css";
+import CrossfadeImage from "react-crossfade-image";
 
 /** Coin: simple & stateless: just show the name & image of current coin. */
 
 function Coin(props) {
   return (
     <div className="Coin">
-      <img src={props.imgSrc} alt={props.side} />
+      <CrossfadeImage src={props.imgSrc} alt={props.side} duration={1000} />
+      {/* <img src={props.imgSrc} alt={props.side} /> */}
     </div>
   );
 }
