@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-coin-flip-app/static/css/main.5c6234d9.chunk.css",
-    "main.js": "/react-coin-flip-app/static/js/main.205b901d.chunk.js",
-    "main.js.map": "/react-coin-flip-app/static/js/main.205b901d.chunk.js.map",
-    "runtime-main.js": "/react-coin-flip-app/static/js/runtime-main.544a1c35.js",
-    "runtime-main.js.map": "/react-coin-flip-app/static/js/runtime-main.544a1c35.js.map",
-    "static/js/2.43e778da.chunk.js": "/react-coin-flip-app/static/js/2.43e778da.chunk.js",
-    "static/js/2.43e778da.chunk.js.map": "/react-coin-flip-app/static/js/2.43e778da.chunk.js.map",
-    "static/js/3.814051fa.chunk.js": "/react-coin-flip-app/static/js/3.814051fa.chunk.js",
-    "static/js/3.814051fa.chunk.js.map": "/react-coin-flip-app/static/js/3.814051fa.chunk.js.map",
+    "main.css": "/react-coin-flip-app/static/css/main.38956012.chunk.css",
+    "main.js": "/react-coin-flip-app/static/js/main.0a846a99.chunk.js",
+    "main.js.map": "/react-coin-flip-app/static/js/main.0a846a99.chunk.js.map",
+    "runtime-main.js": "/react-coin-flip-app/static/js/runtime-main.ffd0a59b.js",
+    "runtime-main.js.map": "/react-coin-flip-app/static/js/runtime-main.ffd0a59b.js.map",
+    "static/js/2.75cc4b9b.chunk.js": "/react-coin-flip-app/static/js/2.75cc4b9b.chunk.js",
+    "static/js/2.75cc4b9b.chunk.js.map": "/react-coin-flip-app/static/js/2.75cc4b9b.chunk.js.map",
+    "static/js/3.9d37a6ba.chunk.js": "/react-coin-flip-app/static/js/3.9d37a6ba.chunk.js",
+    "static/js/3.9d37a6ba.chunk.js.map": "/react-coin-flip-app/static/js/3.9d37a6ba.chunk.js.map",
     "index.html": "/react-coin-flip-app/index.html",
-    "static/css/main.5c6234d9.chunk.css.map": "/react-coin-flip-app/static/css/main.5c6234d9.chunk.css.map",
-    "static/js/2.43e778da.chunk.js.LICENSE.txt": "/react-coin-flip-app/static/js/2.43e778da.chunk.js.LICENSE.txt",
+    "static/css/main.38956012.chunk.css.map": "/react-coin-flip-app/static/css/main.38956012.chunk.css.map",
+    "static/js/2.75cc4b9b.chunk.js.LICENSE.txt": "/react-coin-flip-app/static/js/2.75cc4b9b.chunk.js.LICENSE.txt",
     "static/media/head_image.436eba2f.jpg": "/react-coin-flip-app/static/media/head_image.436eba2f.jpg",
     "static/media/tail_image.2df29650.jpg": "/react-coin-flip-app/static/media/tail_image.2df29650.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.544a1c35.js",
-    "static/js/2.43e778da.chunk.js",
-    "static/css/main.5c6234d9.chunk.css",
-    "static/js/main.205b901d.chunk.js"
+    "static/js/runtime-main.ffd0a59b.js",
+    "static/js/2.75cc4b9b.chunk.js",
+    "static/css/main.38956012.chunk.css",
+    "static/js/main.0a846a99.chunk.js"
   ]
 }
